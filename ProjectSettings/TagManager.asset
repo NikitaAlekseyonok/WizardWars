@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet1
+  - Bullet2
+  - Bullet
+  - qwer
+  - BotWizard
+  - PlayerWizard1
+  - PlayerWizard2
+  - PlayerWizard3
+  - PlayerWizard
+  - Bullet3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2137394993
+    locked: 0
+  - name: 2
+    uniqueID: 3037142869
+    locked: 0
+  - name: Foreground
+    uniqueID: 858695957
+    locked: 0
